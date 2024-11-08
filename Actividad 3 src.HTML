@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:rgb(163, 241, 225);">
+
+<h2>Que es el src?</h2><!--Explicasion-->
+<p>es una ruta que indica la ubicación de un archivo o recurso externo que se quiere enlazar a un documento HTML. Por ejemplo, en el caso de las imágenes, src especifica la ruta de la imagen que se quiere incluir en la página web.</p>
+<hr>
+<H3>Experimentos</H3> 
+<p>Ejemplo 1-basico</p><!--Poner una imagen-->
+<img src="Imagenes/Nico-UN.jpg">
+
+<p>Ejemplo 2-Imagenes con tamallo y color-texto</p><!--queria bes si funsionada-->
+<img src="Imagenes/Nico-UN.jpg" style="color: red" style="font-size:50px;">
+<p style="font-size:10px;">Nota: como no es documento de texto o con texto no sirve esto.</p>
+
+<p>Ejemplo 3-Tamallo, controno y nombres</p><!--Con esto se poner tanto un nombre con alt, un tamañño con los witdth y height y un controno con el style border-->
+<img src="Imagenes/Nico-UN.jpg" alt="Nico vorgei" width="500" height="500" style="border:5px solid rgb(175, 3, 218)">
+
+<p>Ejemplo 4-Sonidos, archivos de sonido y video a audio</p> <!--aqui pruebo con audios y archivos de audio-->
+<audio src="sonidos/Spamton-BIG SHOT - Spantom neo battel.mp4" controls>hola</audio>
+<audio src="sonidos/Jevil-The Circus.ogg"controls>hola</audio>
+<audio src="sonidos/Jevil-THE WORLD REVOLVING.mp3" controls>hola</audio>
+<audio src="sonidos/Bones.mp4" controls>hola</audio>
+
+<p>Ejemplo 5-embed</p><!--con el 5 y 6 no dire mucho solo queria experimentar y no entedi mucho-->
+<embed type="Bones/mp4" src="video.mp4" width="400" height="300"></embed>
+<p style="font-size:10px;">Nota: esto lo dejare hasi por ahora que no entiendo bien que es el embed</p>
+
+<p>Ejemplo 6-Enlases visibles</p>
+<iframe src="https://www.youtube.com/watch?v=i62rtMpP3Es" title="link de youtube"></iframe>
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+<p style="font-size:10px;">Nota: no me funsiono el iframe probare la proxima ves, pero al pareser es para poner enlases visibles o algo hasi</p>
+
+<!--___________________________-->
+<p>Ejemplo 7-sonidos y audio</p>
+<audio controls><!--son solo multiples archivos de audio en un solo lugar, pero solo aquiere 1, que es el que punsiona mejor-->
+    <source src="sonidos/Jevil-The Circus.ogg" type="audio/ogg"> <!--Corepta-->
+    <source src="Jevil-THE WORLD REVOLVING" type="audio/mp3">
+    <source src="Spamton presentasion shop.mp3" type="sonidos/mp3">
+    <source src="sonidos/Jevil AU-The Circus+Big Shot.mp3" type="sonidos/mp3"> <!--Corepta pero al pareser se sobrepone-->
+</audio>
+<audio controls>
+    <source src="sonidos/Jevil AU-The Circus+Big Shot.mp3" type="sonidos/mp3">
+</audio>
+<!--Al pareser es una etiqueta de contedio multimedioa-->
+
+<p>Ejemplo 8-Videos</p><!--con esto podemos alladir videos-->
+<div>
+    <video width="700" height="700" controls><!--qui me pongo a jugar con los tamaños-->
+    <source src="sonidos/Bones.mp4" type="video/mp4">
+</video>
+</div>
+<div>
+    <video width="500" height="700" controls>
+    <source src="sonidos/Bones.mp4" type="video/mp4">
+</video>
+</div>
+<div>
+<video width="700" height="500" controls>
+    <source src="sonidos/Bones.mp4" type="video/mp4">
+</video>
+</div>
+
+<div><!--tamollo normal-->
+    <video controls>
+        <source src="sonidos/Bones.mp4" type="video/mp4">
+    </video>
+</div>
+
+<div><!--probemos con un sonido echo video, aunque solo sale el sonido pero hey asepta archivos mp4, lugo pruebo otros tipos de archivo de video-->
+    <video controls>
+        <source src="sonidos/Spamton-BIG SHOT - Spantom neo battel.mp4" type="video/mp4">
+    </video>
+</div>
+
+<video src="sonidos/Bones.mp4">HOLA</video><!--al pareser no carga todo el video quisas por eso se trababan en la partedel sonido-->
+<video src="sonidos/Jevil-The Circus.ogg"></video><!--No asepta sonidos del todo-->
+
+
+</body><!-- -->
+</html>
