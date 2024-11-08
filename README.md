@@ -23,6 +23,7 @@
 ![image](https://github.com/user-attachments/assets/3924913d-fdac-4e47-9f51-956a8ba168cb)
 
 # Actividad 4
-
+![image](https://github.com/user-attachments/assets/c3887a81-b207-4da4-a88e-7000d2a957c2)
+![image](https://github.com/user-attachments/assets/fbed0f86-ff11-4cc1-abef-45d054a0b5d7)
 
 # Actividad 5
