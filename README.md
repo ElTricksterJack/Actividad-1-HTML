@@ -32,3 +32,11 @@
 ![image](https://github.com/user-attachments/assets/92fc2166-d56b-4d2d-bab5-8fbf6a8b82ee)
 ![image](https://github.com/user-attachments/assets/46f90dca-0991-4dd6-8477-2c5133001a5f)
 ![image](https://github.com/user-attachments/assets/4a9b43f0-d40b-4ee7-a764-45fc0c97b200)
+
+# Activdad 6
+![image](https://github.com/user-attachments/assets/0b54230b-796e-4599-918d-a77891e22587)
+![image](https://github.com/user-attachments/assets/162ba0db-e6ec-4aef-b3ce-3e06c409970f)
+
+# Actividad 7
+
+# Actividad 8
