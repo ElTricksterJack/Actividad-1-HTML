@@ -27,3 +27,8 @@
 ![image](https://github.com/user-attachments/assets/fbed0f86-ff11-4cc1-abef-45d054a0b5d7)
 
 # Actividad 5
+![image](https://github.com/user-attachments/assets/d476e996-cfa6-41b5-9af2-6d1383ef8d4d)
+![image](https://github.com/user-attachments/assets/a3fa2f5e-b805-449b-91b1-43f6faf861bb)
+![image](https://github.com/user-attachments/assets/92fc2166-d56b-4d2d-bab5-8fbf6a8b82ee)
+![image](https://github.com/user-attachments/assets/46f90dca-0991-4dd6-8477-2c5133001a5f)
+![image](https://github.com/user-attachments/assets/4a9b43f0-d40b-4ee7-a764-45fc0c97b200)
